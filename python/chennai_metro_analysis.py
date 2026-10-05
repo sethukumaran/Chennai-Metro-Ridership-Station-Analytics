@@ -2,9 +2,7 @@
 Chennai Metro Ridership & Station Analytics
 Senior Data Analyst portfolio project
 
-Run:
-    pip install -r requirements.txt
-    python chennai_metro_analysis.py
+
 
 The script:
 1. Loads all supplied CMRL datasets.
