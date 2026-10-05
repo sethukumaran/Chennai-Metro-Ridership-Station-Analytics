@@ -1,7 +1,4 @@
 -- Chennai Metro Ridership & Station Analytics
--- PostgreSQL-oriented SQL.
--- The supplied CSV/XLSX files can be loaded into staging tables using COPY
--- or your preferred ETL process.
 
 -- ============================================================
 -- 1. DAILY SYSTEM KPIs
